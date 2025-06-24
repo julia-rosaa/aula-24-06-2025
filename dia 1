@@ -1,0 +1,7 @@
+programa{
+ funcao inicio(){
+     real numero1,numero2
+	 escreva("informe o 1° numero:
+	 leia(numero1)
+	  }
+	 }
